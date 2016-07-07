@@ -10,4 +10,4 @@ Just [download this repository](https://github.com/themingfu/android_madLibs/arc
 
 # License
 
-&copy; 2016 Ming Wen. Shared under an [MIT license](https://en.wikipedia.org/wiki/MIT_License). See [license.md](./license.md) for details.
+&copy; 2016 Ming Wen. Shared under an [MIT license](https://en.wikipedia.org/wiki/MIT_License). See [license.md](./LICENSE.md) for details.
